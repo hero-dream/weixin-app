@@ -5,6 +5,24 @@
 			"style": {
 				"navigationBarTitleText": "首页"
 			}
+		},
+		{
+			"path": "pages/category/main",
+			"style": {
+				"navigationBarTitleText": "商品名称"
+			}
+		},
+		{
+			"path": "pages/cart/main",
+			"style": {
+				"navigationBarTitleText": "我的购物车"
+			}
+		},
+		{
+			"path": "pages/user/main",
+			"style": {
+				"navigationBarTitleText": "个人中心"
+			}
 		}
 	],
 	"globalStyle": {
